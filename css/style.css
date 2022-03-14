@@ -335,6 +335,7 @@ img
         line-height: 40px;
         text-align: center;
         margin-right: 20px;
+    }
 #contact
     {
         background: url('../img/contact-bg.jpeg') no-repeat;
@@ -422,6 +423,7 @@ footer
     #contact .overlay {
         padding-top: 40px;
     }
+    
 }
 @media screen and ( max-width: 360px ){
     .pricing
